@@ -59,7 +59,7 @@ public class KillPhotoshopRunner
 				case 10: p = new Picture("beach.jpg");
 				break;
 				
-				case 11: p = new Picture("bat.jpg");
+				case 11: p = new Picture("pat.jpg");
 				break;
 			}
 			p.explore();
